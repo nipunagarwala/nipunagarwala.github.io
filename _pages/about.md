@@ -4,26 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
-
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Movement restrictions in 2020 due to the COVID pandemic provided me time to think about where we are, how we got here (maybe why we are here) and where we are heading. I started to answer these questions with respect to topics that I take specific interest in: Technology, Healthcare, Governance of Nation states, and Social Justice. What I was slow to realize was that all these topics were heavily intertwined in the 21st century (courtesy of Yuval Noah Harari's [21 lessons for the 21st century book](https://www.amazon.com/dp/B07B77NHHL/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)). This is my attempt to share my thoughts on specific topics that I either came across or might be pertinent at a specific instant, and subsequently connect to larger themes and questions as laid out at the start of this paragraph.
