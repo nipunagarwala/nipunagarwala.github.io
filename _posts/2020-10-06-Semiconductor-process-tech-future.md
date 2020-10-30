@@ -28,7 +28,7 @@ Different people and fields used these interpretations. For example, until recen
 We will explore these implications in detail in a few sections and see whether they still hold true. First, let us understand what scaling a transistor even means.
 
 ## What does scaling a transistor mean?
-![Transistor Trend](/images/TransistorScaling_Length.png)
+![Transistor Trend](/images/TransistorSilicon_Length.png)
 A transistor is fundamentally, in logic terms, a switch controlling the flow of current from the "Source" to the "Drain". The "switch" part of the transistor is called the "Gate". 
 When we say the transistor becomes half its size, we are referring to its gate length, as seen in the above picture. We want to make the gate as thin as possible to reduce the form factor of the transistor in order to increase the transistor density on die.
 
