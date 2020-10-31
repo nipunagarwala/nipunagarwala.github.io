@@ -6,8 +6,8 @@ categories: Semiconductors
 
 There was a recent announcement by TSMC at its 2020 Virtual Technology Symposium about its [3nm risk production](https://www.anandtech.com/show/16024/tsmc-details-3nm-process-technology-details-full-node-scaling-for-2h22) and [2nm node research and development](https://www.extremetech.com/computing/309889-tsmc-starts-development-on-2nm-process-node). It took me a moment to process how far we have been pushing silicon scaling. After all those years of being told that Moore's law was ending and silicon scaling would stop, are we still scaling? How has our assumptions of Moore's law changed? What lies ahead for us?
 
-# Moore's Law : Past and Present
-## Historical Definition and Interpretations
+## Moore's Law : Past and Present
+### Historical Definition and Interpretations
 ![Microprocessor Trend](/images/uProcTrend.png)
 
 In the above image, let us focus on the transistor count shown by the red circles. We see the basic statement of Moore's law in action i.e. transistor count doubles ever 2 years. For 35 years, this "law" has held true. A few things to note here about the "law":
@@ -27,7 +27,7 @@ Different people and fields used these interpretations. For example, until recen
 
 We will explore these implications in detail in a few sections and see whether they still hold true. First, let us understand what scaling a transistor even means.
 
-## What does scaling a transistor mean?
+### What does scaling a transistor mean?
 ![Transistor Trend](/images/TransistorSilicon_Length.jpg)
 A transistor is fundamentally, in logic terms, a switch controlling the flow of current from the "Source" to the "Drain". The "switch" part of the transistor is called the "Gate". We will not cover transistor knowledge and equations here, with sufficient information on this topic available.
 When we say the transistor becomes half its size, we are referring to its gate length, as seen in the above picture. We want to make the gate as small as possible to reduce the form factor of the transistor in order to increase the transistor density on die. The actual node name (i.e. 65nm, 28nm etc. ) refers to the length of the gate length in the transistor, until recently (we will see why in a bit).
@@ -36,37 +36,37 @@ What we can also infer from the picture above that there is a certain limit upto
 
 Fair question to ask: How did we get from 28nm to 7nm without scaling gate length? The answer lies in the main implication that we explored earlier. Transistor size needs to shrink for continued scaling. At and before 28nm, the shrinking was done by direct reduction of the gate length. After 28nm, the shrinking was done by reduction in the overall form factor. Specifically, the "fins" of FinFET are made taller and the source and drain made thinner.
 
-## Transistor Tech
+### Transistor Tech
 
-## Property Trends of Transistor Scaling
+### Property Trends of Transistor Scaling
 
-## Power Scaling
+### Power Scaling
 
-## Economic Scaling
-
-
-# Modern Transistors: 7nm and 5nm
-
-## Transistor Tech
-
-## Power : Pushing the Envelope
-
-## EUV : Changing Economic Landscape
+### Economic Scaling
 
 
-# Future Transistors: 3nm and Below
+## Modern Transistors: 7nm and 5nm
 
-## Modified Transistor Design
+### Transistor Tech
 
-## Silicon Alternatives 
+### Power : Pushing the Envelope
 
-
-# Interconnect and Memory Cells Scaling
-
-
-# Manafacturing Technology and Industry Evolution
+### EUV : Changing Economic Landscape
 
 
-# Policy Implications
+## Future Transistors: 3nm and Below
+
+### Modified Transistor Design
+
+### Silicon Alternatives 
+
+
+## Interconnect and Memory Cells Scaling
+
+
+## Manafacturing Technology and Industry Evolution
+
+
+## Policy Implications
 
 
