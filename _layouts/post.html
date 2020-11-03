@@ -5,6 +5,12 @@ layout: default
 <article class="post detailed">
   <h1 style="text-align:left">{{ page.title }}</h1>
 
+  <script src="//yihui.org/js/math-code.js"></script>
+  <!-- Just one possible MathJax CDN below. You may use others. -->
+  <script async
+    src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+
    <div>
     <p style="text-align:left" class="author_title"> {{ page.date | date: "%B %e, %Y" }}</p>
     {% if page.last_modified_at %}
