@@ -38,7 +38,7 @@ Fair question to ask: How did we get from 28nm to 7nm without scaling gate lengt
 
 ### Transistor Tech Primer
 
-`$e^{i\pi} + 1 = 0$`.
+\\[ e^{i\pi} + 1 = 0 \\] 
 
 
 ### Property Trends of Transistor Scaling
