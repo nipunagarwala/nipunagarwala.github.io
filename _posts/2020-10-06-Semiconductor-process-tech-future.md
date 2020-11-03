@@ -36,7 +36,10 @@ What we can also infer from the picture above that there is a certain limit upto
 
 Fair question to ask: How did we get from 28nm to 7nm without scaling gate length? The answer lies in the main implication that we explored earlier. Transistor size needs to shrink for continued scaling. At and before 28nm, the shrinking was done by direct reduction of the gate length. After 28nm, the shrinking was done by reduction in the overall form factor. Specifically, the "fins" of FinFET are made taller and the source and drain made thinner.
 
-### Transistor Tech
+### Transistor Tech Primer
+
+$e^{i\pi} + 1 = 0$.
+
 
 ### Property Trends of Transistor Scaling
 
